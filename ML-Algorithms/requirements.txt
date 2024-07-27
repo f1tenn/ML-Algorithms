@@ -1,0 +1,21 @@
+# Libraries for data analysis and machine learning
+pandas==1.5.3
+numpy==1.24.0
+scikit-learn==1.2.0
+
+# Libraries for data visualization
+matplotlib==3.6.3
+seaborn==0.12.2
+
+# Libraries for working with models
+joblib==1.2.0
+
+# Jupyter
+jupyter==1.0.0
+
+# Additionally, if you are using TensorFlow or PyTorch
+# tensorflow==2.11.0
+# torch==1.12.1
+
+# For version control (optional)
+pip==23.0.1
